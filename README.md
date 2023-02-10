@@ -2,9 +2,11 @@
 ### Description
 This telegram-bot was designed for easy access to ChatGTP, as well as for practicing asynchronous programming and working with databases.
 
+Bot link: https://t.me/Min_GPT_bot (Not deployed yet.)
+
 ---
 
-### Technologies:
+### :computer: Technologies:
 - Aiogram;
 - PostgreSql (SQLAlchemy);
 - API Openai;
