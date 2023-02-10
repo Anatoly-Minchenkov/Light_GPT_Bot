@@ -1,15 +1,16 @@
 # Ligth ChatGPT bot
-### Description
 This telegram-bot was designed for easy access to ChatGTP, as well as for practicing asynchronous programming and working with databases.
 
 Bot link: https://t.me/Min_GPT_bot (Not deployed yet.)
 
----
-
 ### :computer: Technologies:
 - Aiogram;
 - PostgreSql (SQLAlchemy);
-- API Openai;
+- API Openai.
+---
+
+
+
 
 
 ### :hammer_and_wrench: Installation:
